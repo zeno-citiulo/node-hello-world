@@ -1,1 +1,3 @@
-console.log('Hello Boolean!');
+const parola = ('Giacomino')
+
+console.log(`Hello ${parola}`);
